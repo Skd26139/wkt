@@ -1,12 +1,9 @@
-このプロジェクトについて
 
 このリポジトリは、wakame02 さんが作成したオリジナルのリポジトリをフォークして使用しています。
-オリジナルプロジェクトは Creative Commons Attribution 4.0 International License（CC-BY-4.0）に基づき公開されています。
+オリジナルプロジェクトは Creative Commons Attribution 4.0 International License（CC-BY-4.0） に基づき公開されています。
 詳しくは CC-BY-4.0 ライセンス をご覧ください。
 
 改変および再配布について
-
 このリポジトリは、CC-BY-4.0 ライセンスに従い自由に改変および再配布が可能です。
 利用時は、必ずオリジナル作者である wakame02 さんへのクレジットをお願いします。
-
 
